@@ -7,11 +7,11 @@
 
 </div>
 
-# :notebook: NextJs SWC Boilerplate
+# :notebook: NextJs Typescript SWC Boilerplate
 
 ### by Kay Pacha
 
-Nextjs - Styled-Components - SWC - Jest | testing-library - Storybook - Github Actions - Eslint - Prettier
+Nextjs - Typescript - Styled-Components - SWC - Jest | testing-library - Storybook - Github Actions - Eslint - Prettier
 
 ## :tada: Getting Started
 
@@ -41,7 +41,7 @@ Now you have all devDependencies and dependencies the project need.
 ## :running: Run the project
 
 Put your github account on `CODEOWNERS` file inside `.github` folder.
-You can edit or delete the config of `./.github/workflows` & `./scripts` in case you want your own configuration or you don't want it one.
+You can edit or delete the config of `./.github/workflows` in case you want your own configuration or you don't want it one.
 
 **For development run**
 
