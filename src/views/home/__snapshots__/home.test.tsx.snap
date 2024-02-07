@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text renders a text inside Home 1`] = `
+.c1 {
+  color: white;
+  text-decoration: none;
+  line-height: 1.5;
+  font-family: Arial,sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.c2 {
+  color: white;
+  text-decoration: none;
+  line-height: 1.5;
+  font-family: Courier New,monospace;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.c0 {
+  align-items: center;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.c0 >:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+<div>
+  <main
+    class="c0"
+    id="main"
+  >
+    <p
+      class="c1"
+    >
+      Boilerplate by KayPacha
+    </p>
+    <p
+      class="c2"
+    >
+      Next is working
+    </p>
+  </main>
+</div>
+`;
