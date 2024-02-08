@@ -1,9 +1,9 @@
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/kaypacha/next-boilerplate?color=%23ffcc5c&style=for-the-badge)](https://github.com/kaypacha/next-boilerplate/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/kaypacha/next-boilerplate?color=%2396ceb4&style=for-the-badge)](https://github.com/kaypacha/next-boilerplate/network)
+[![GitHub stars](https://img.shields.io/github/stars/kaypacha/next-typescript-template?color=%23ffcc5c&style=for-the-badge)](https://github.com/kaypacha/next-boilerplate/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kaypacha/next-typescript-template?color=%2396ceb4&style=for-the-badge)](https://github.com/kaypacha/next-boilerplate/network)
 [![Discord](https://img.shields.io/badge/chat-discord-77aaff?style=for-the-badge)](https://discord.gg/Evh8Dvd)
-[![GitHub license](https://img.shields.io/github/license/kaypacha/next-boilerplate?color=%23ff6f69&style=for-the-badge)](https://github.com/kaypacha/next-boilerplate/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/kaypacha/next-typescript-template?color=%23ff6f69&style=for-the-badge)](https://github.com/kaypacha/next-boilerplate/blob/master/LICENSE)
 
 </div>
 
@@ -71,4 +71,4 @@ npm run test
 
 ## :bookmark_tabs: License
 
-[MIT](https://github.com/kaypacha/next-boilerplate/blob/master/LICENSE)
+[MIT](https://github.com/kaypacha/next-typescript-template/blob/master/LICENSE)
